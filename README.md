@@ -30,11 +30,11 @@ First Install netbeans and mysql (ENTER MYSQL PASSWORD:-12345) on  your computer
 
 + Enter the command given below in Mysql
 
-create database kbc;
+   create database kbc;
 
-use kbc;
+   use kbc;
 
-create table score(regid int(10) primary key auto_increment,name char(40),age int(3),score int(10));
+   create table score(regid int(10) primary key auto_increment,name char(40),age int(3),score int(10));
 + Done
 
 
