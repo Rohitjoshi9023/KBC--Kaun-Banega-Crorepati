@@ -26,30 +26,36 @@ First Install netbeans and mysql (ENTER MYSQL PASSWORD:-12345) on  your computer
  MySQL Changes                              
 -----------------------
 
-1.After installing mysql Open it
++ After installing mysql Open it
 
-2.Enter the command given below in Mysql
++ Enter the command given below in Mysql
 
 create database kbc;
 
 use kbc;
 
 create table score(regid int(10) primary key auto_increment,name char(40),age int(3),score int(10));
-3.Done
++ Done
 
 
 Netbeans
 -----------------------
-Open NetBeans
++ Open NetBeans
 
-goto Service and connect kbc database.
++ goto Service and connect kbc database.
 
-then open project Simple
++ then open project Simple
 
-Run and Enjoy
++ Run and Enjoy
 
 # Requirements
 
+Operating System  :-Platform Independent(win,linux,mac etc)
 
+Software required :-Java Runtime Environment (JRE).
+
+Library           :-Sqlite.jar,mail.jar,jfoenix.jar
+
+# Thankyou
 
 
