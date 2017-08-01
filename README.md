@@ -54,7 +54,7 @@ Operating System  :-Platform Independent(win,linux,mac etc)
 
 Software required :-Java Runtime Environment (JRE).
 
-Library           :-Sqlite.jar,mail.jar,jfoenix.jar
+Library           :-mysql-connector-java-5.1.23-bin.jar
 
 # Thankyou
 
