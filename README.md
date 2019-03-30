@@ -1,5 +1,5 @@
 # KBC -Kaun Banega Crorepati
-It is a core Java Game based on Indian television game show having best animation as possible in Core java.It is around 5000+ Line projects created for Practicing your quizzing skills.This Core java project have some amazing concepts Like Random question,All Life 
+It is a core Java Game based on Indian television show having best animation as possible in Core java.It is around 5000+ Line projects created for Practicing your quizzing skills.This Core java project have some amazing concepts Like Random question,All Life 
 works fine,30 seconds to give answer and many more...<br/>
 
 
