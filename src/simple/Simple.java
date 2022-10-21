@@ -20,7 +20,7 @@ public class Simple {
         Long Logo;
         Logo = System.currentTimeMillis();
         if(Logo%3==0){
-     
+     System.out.println("mallela nagarjuna reddy");
        
       System.out.println("\t\t              ________________________________________________________________________________________________");
       System.out.println("\t\t            /|                                                                                                |");
